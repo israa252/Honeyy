@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-baloo-bhaijaan-2: "Baloo Bhaijaan 2";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-29xl: 48px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-dimgray-100: #646464;
+  --color-gray-100: #848484;
+  --color-orange-100: #ffa800;
+  --color-darkslategray-100: #414141;
+  --color-darkseagreen: #7daf6e;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-5xs: 8px;
+}
